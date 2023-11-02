@@ -1,1 +1,1 @@
-# Social-Network_Django_Vue3
+# Social_Network_Django_Vue3
